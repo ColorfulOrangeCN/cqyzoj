@@ -5,7 +5,6 @@ using namespace std;
 const int maxn = 10000, maxm = 100;
 
 int w[maxn], p[maxm];
-
 int main(){
 	int n,m;
 	cin >> n >> m;
