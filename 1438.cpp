@@ -3,7 +3,7 @@
 using namespace std;
 const int maxn = 500005;
 struct city{
-	int left,right;
+  int left,right;
 } citys[maxn];
 int mark[maxn];
 bool compare(city a, city b){

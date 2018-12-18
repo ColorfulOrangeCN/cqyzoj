@@ -5,7 +5,7 @@ using namespace std;
 
 const int maxn = 50005;
 
-struct node{
+struct node {
 	int parent, deep;
 	vector<int> child;
 } nodes[maxn];

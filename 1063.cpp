@@ -15,4 +15,5 @@ int main(){
 		*min_element(p, p + m) += w[i];
 	}
 	cout << *max_element(p, p + m) << endl;
+	return 0;
 }
